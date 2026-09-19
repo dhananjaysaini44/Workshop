@@ -1,0 +1,35 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Data files (optional)
+data/
+datasets/
+
+# Model files
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Logs
+*.log
